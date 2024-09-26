@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-channels-dk1",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "demo-example",
+    "displayName": "Demo Example Plugin",
+    "description": "Um plugin de exemplo para o Insomnia.",
+    "publisher": {
+      "name": "richbar"
+    }
+  },
+  "main": "main.js"
+}
